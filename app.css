@@ -1,0 +1,33 @@
+*{
+background: url("https://th.bing.com/th/id/OIP.h_QfWGvCHNcKQT_QZIGmTgHaHb?w=186&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7");
+text-align: center;
+background-size: 100%;
+color: red;
+}
+
+
+ul{
+  list-style: none;
+}
+
+div{
+
+  background: none;
+}
+ul,ol,li, button{
+  background: none;
+}
+
+h2{
+  background: none;
+}
+
+img{
+  background: none;
+  height: 175px;
+  width: 175px;
+}
+
+h1{
+  background: none;
+}
